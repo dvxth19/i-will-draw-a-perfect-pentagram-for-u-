@@ -1,5 +1,5 @@
 import turtle as t
-t.speed(10)
+t.speed(1)
 t.bgcolor('black')
 t.color('red')
 while True:
@@ -21,30 +21,3 @@ while True:
 	t.fd(380)
 	
 	t.left(72)
-
-
-
-
-
-    
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
